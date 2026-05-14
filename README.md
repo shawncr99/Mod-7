@@ -1,5 +1,7 @@
 # Introduction to GitHub
 
+Ive been trying to get into the computer sceinces for the last 20 years. Slowly but surely ive been able to learn lit bits at a time. While i still have no freaking clue what the hell im doing here and i feel over my my head im not done yet.
+
 _Get started using GitHub in less than an hour._
 
 ## Welcome
