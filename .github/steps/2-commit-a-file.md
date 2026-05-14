@@ -31,15 +31,17 @@ The following steps will guide you through the process of committing a change on
 
 5. Click **Commit changes...** in the upper right corner above the contents box. A dialog will appear.
 
-6. GitHub offers a simple default message, but let's change it slightly for practice. Enter `Add PROFILE.md` in the **Commit message** field.
-   
+6. GitHub may suggest a commit message, but let's set one ourselves for practice. Enter `Add PROFILE.md` in the **Commit message** field.
+
    - A **commit message** and optional **extended description** help provide clarity for your changes. This is particularly useful when your commit involves several files.
+
+   <br>
 
    <img width="400" alt="screenshot of adding a new file with a commit message" src="../images/commit-message-dialog.png">
 
-6. In this lesson, we'll ignore the other fields for now and click **Commit changes**.
+7. In this lesson, we'll ignore the other fields for now and click **Commit changes**.
 
-7. Now that you've changed a file, Mona should already be busy checking your work. Give her a moment and keep watch in the comments. You will see her respond with progress info and the next lesson.
+8. Now that you've changed a file, Mona should already be busy checking your work. Give her a moment and keep watch in the comments. You will see her respond with progress info and the next lesson.
 
 
 <details>
