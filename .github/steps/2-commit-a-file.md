@@ -35,8 +35,6 @@ The following steps will guide you through the process of committing a change on
 
    - A **commit message** and optional **extended description** help provide clarity for your changes. This is particularly useful when your commit involves several files.
 
-   <br>
-
    <img width="400" alt="screenshot of adding a new file with a commit message" src="../images/commit-message-dialog.png">
 
 7. In this lesson, we'll ignore the other fields for now and click **Commit changes**.
