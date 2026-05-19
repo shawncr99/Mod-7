@@ -2,7 +2,7 @@
 
 _Get started using GitHub in less than an hour._
 
-## Welcome
+## Welcome all
 
 People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” exercise guides you through everything you need to start contributing in less than an hour.
 
@@ -30,7 +30,7 @@ Simply copy the exercise to your account, then give your favorite Octocat (Mona)
 
 When copying the exercise, we recommend the following settings:
 
-- For owner, choose your personal account or an organization to host the repository.
+- For the owner, choose your personal account or an organization to host the repository.
 
 - We recommend creating a public repository, since private repositories will use Actions minutes.
 
