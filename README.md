@@ -45,3 +45,18 @@ If the exercise isn't ready in 20 seconds, please check the [Actions](../../acti
 ---
 
 &copy; 2026 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
+# Introduction
+My name is PAPA!
+
+#Picture
+![image](https://wsdmoodle.waseda.jp/pluginfile.php/7560925/mod_resource/content/2/SE2026A-No.8-%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%A8GitHub.pdf?forcedownload=1)
+
+#Code
+```java
+System.out.println("Hello");
+
+#Task
+- [ ] 課題１
+- [ ]　課題2
+- [x] 課題3
